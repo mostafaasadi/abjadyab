@@ -8,13 +8,17 @@
 # نصب
 
 </div>
-‍‍‍- `pip3 install pyqt5`
+
+- `pip3 install pyqt5`
 
 <div dir="rtl">
 
 # اجرا
 
 </div>
-- ‍`git clone https://github.com/mostafaasadi/abjadyab`
+
+- `git clone https://github.com/mostafaasadi/abjadyab`
+
 - `cd abjadyab`
-- `python3 abjad.py`
+
+- `python3 abjadyab.py`
