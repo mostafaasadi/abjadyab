@@ -107,6 +107,7 @@ class App(QMainWindow):
 # Abjad main function
 def abjad(word):
     com = 0
+    # remove spaces
     word = word.replace(' ', '')
     for i in word:
         try:
